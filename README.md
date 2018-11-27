@@ -2,4 +2,4 @@
 React Native örneği
 
 
-xxxxxx
+yyyyyy
